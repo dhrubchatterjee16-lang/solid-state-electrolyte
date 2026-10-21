@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use Solid-State-Electrolyte, please cite it as below."
+authors:
+  - family-names: "Chatterjee"
+    given-names: "Dhrub"
+title: "Solid-State Electrolyte: Crystal Graph Screening Pipeline for Li-Ion Conductivity and Interface Stability"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/dhrubchatterjee16-lang/solid-state-electrolyte"
+keywords:
+  - solid-state-battery
+  - materials-informatics
+  - crystal-graph-convolution
+  - ionic-conductivity
